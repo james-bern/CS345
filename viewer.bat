@@ -1,3 +1,5 @@
+git pull
+
 :<<BATCH
 
 _viewer.exe
