@@ -1,8 +1,10 @@
+cd CS345
 git pull
+cd ..
 
 :<<BATCH
 
-_conversation.exe
+CS345\_conversation.exe
 
 BATCH
 
