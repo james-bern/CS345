@@ -1,4 +1,3 @@
-cd CS345
 git pull
 cd ..
 
